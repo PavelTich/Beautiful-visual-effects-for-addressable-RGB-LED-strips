@@ -15,3 +15,6 @@ When LED strips on the WS28xx appeared, my colleague asked me to make a lightnin
 
 An 8-bit STM8S103 MCU and an STM8_dev_kit board were used. The diagram is presented in Fig. 1. The programs were first written in an overview version in C, then manually translated into STVD assembler. Later, variable resistors were added to the circuit to adjust brightness and time delays (1. - speed of object movement, 2. - picture repeat time). In the future, it is possible that an IRD remote control + bluetooth will be added. Well, most importantly, new beautiful effects are planned that strip manufacturers do not have.
 
+Video:
+https://drive.google.com/file/d/1SusUpxp6q4iR9_zBNOfhVI5OVD2T2UhP/view?usp=drive_link
+https://drive.google.com/file/d/1Sl_AnIjD4ZojBQMkMsow1h1KfacIIdEX/view?usp=drive_link
